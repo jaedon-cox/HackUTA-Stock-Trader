@@ -3,8 +3,8 @@ import finnhub
 import requests
 import os
 
-finnhub_client = finnhub.Client(api_key='d3gjgopr01qpep675jm0d3gjgopr01qpep675jmg')
-api_key = "6FSASNSYFY0JHJWD"
+finnhub_client = finnhub.Client(api_key='****************************')
+api_key = "*************"
 
 tickers = ["AAPL", "AMZN", "BA", "BAC", "CAT", "CVX", "GE", "GOOG", "GS", "INTC", "JNJ", "JPM", "KO", "MA", "META", "MRNA", "MSFT", "NKE", "NVDA", "PEP", "PFE", "SBUX", "TSLA", "V", "WMT", "XON"]
 
